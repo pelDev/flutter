@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "970721845647",
+    "firebase_url": "https://fir-demo-233ec.firebaseio.com",
+    "project_id": "fir-demo-233ec",
+    "storage_bucket": "fir-demo-233ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970721845647:android:48e6d30dd9366375006bfa",
+        "android_client_info": {
+          "package_name": "com.example.skenpotv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970721845647-eoq61a1s5gtmdp5v4l52e3ot8h6bjab9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.skenpotv",
+            "certificate_hash": "a98d08e451724ad497e5e3f670f42dd802989bf4"
+          }
+        },
+        {
+          "client_id": "970721845647-lsin9n6omvgqipi7dji2632ld423048j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSvLwR25mXyfIIZbRRKUxhXOtJFERroOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970721845647-lsin9n6omvgqipi7dji2632ld423048j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
